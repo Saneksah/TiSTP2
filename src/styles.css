@@ -1,0 +1,62 @@
+body {
+  background-image: url("http://bgfons.com/uploads/paper/paper_texture315.jpg");
+  margin: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center
+}
+
+
+.Photo{
+  text-align: center;
+  border-radius: 50%;
+}
+
+
+.UP {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.men1 {
+  display: flex;
+  border-radius: 10px;
+  background:#CC7722;
+  padding: 2px;
+  color: black;
+}
+
+.men2 {
+  color:  rgb(40, 50, 189);
+}
+
+.End {
+  text-align: left 
+}
+
+.cnopka{
+  margin-right:-85% ;
+}
+ ul{
+  list-style: none;
+  text-align: left
+ }
+
+ span{
+  margin-left:-80%;
+  color: #181513;
+  font-size: 20px;
+ }
+
+.text{
+  width: 175px;
+  height: 50px;
+  
+}
+ p{
+   font-size: 25px;
+ }
+ h1{
+   font-size: 100px;
+ }
